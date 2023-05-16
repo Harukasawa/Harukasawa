@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harukasawa
 - 👀 I’m interested in programming language.
-- 🌱 I’m currently learning Python, Golang.
+- 🌱 I’m currently learning Python, Golang, C++, Java, HTML, PHP, Dart.
 - 💞️ I’m looking to collaborate on dunno :( 
 - 📫 How to reach me:
 on discord: Harukasawa#1566
